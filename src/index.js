@@ -1,11 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-
 import reportWebVitals from './reportWebVitals';
-import Exer1 from './SEMLABEXAM/Exer1';
-import Exer2parent from './SEMLABEXAM/Exer2parent';
-import Configuration from './Configuration/Configuration';
 import Configuration11 from './Component/Configuration11';
 
 
@@ -20,10 +16,7 @@ import Configuration11 from './Component/Configuration11';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-  {/* <Exer2parent/> */}
- {/* <Exer1/> */}
- {/* <Configuration/> */}
- {/* <Configuration/> */}
+ 
  <Configuration11/>
   </React.StrictMode>
 );

@@ -1,0 +1,58 @@
+/* .servicewhole
+{
+    width:350px;
+    height:260px;
+    gap:20px;
+    /* background: linear-gradient(90deg, pink,#f1c7ed); */
+    /* background-color:aqua; */
+/* }  */
+.Servicesheader
+{
+    /* background-color:azure; */
+   /* border:solid 0.5px; */
+    /* border-color:pink; */
+    text-align:center;
+    width:250px;
+    height:25px;
+    border-radius:20px;
+    box-shadow: 10px 10px 30px pink;
+    box-shadow: inset;
+}  
+.Servicesheader2
+{
+    /* background-color:azure; */
+   /* border:solid 0.5px; */
+    /* border-color:pink; */
+    margin-top: 10px;
+    text-align:center;
+    width:250px;
+    height:25px;
+    border-radius:20px;
+    box-shadow: 10px 10px 30px pink;
+    box-shadow: inset;
+    margin-left: 100px;
+}  
+.servicewhole
+{
+    width:500px;
+    height: 200;
+    /* background-color:; */
+    border: solid 2px black;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 40px;
+    /* align-content: center; */
+} 
+.sidephoto
+{
+    display: flex;
+    gap: 50px;
+}
+/* .gradient_background {
+    background: linear-gradient(90deg, pink,#f1c7ed);
+    margin-top: 10px;
+    width: 500px;
+    height: 400px;
+    border-radius: 20px;
+} */
+/* 9791177579 */
